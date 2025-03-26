@@ -1,7 +1,7 @@
 # Insight Box Prototype
 
 ## Project Overview
-The Insight Box Prototype is a tool designed to analyze simulated journal entries for cognitive distortions. 
+The Insight Box Prototype is a tool designed to analyze simulated journal entries for cognitive distortions. This was submitted and accepted for CHI 2025 Workshop on Human-AI Interaction for Augmented Reasoning. 
 
 ## Repository Structure
 
